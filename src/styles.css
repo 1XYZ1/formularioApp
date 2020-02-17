@@ -1,1 +1,53 @@
-/* You can add global styles to this file, and also import other style files */
+.main-container {
+    margin-top: 50px;
+}
+
+body {
+    background: #3494E6;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #004e92, #004e92, #000428);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #004e92, #004e92, #000428);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.navbar {
+    background: #000428;
+}
+
+h2 {
+    color: white;
+}
+
+label {
+    color: white;
+}
+
+
+/* .ng-invalid.ng-touched:not(form) {
+    border: 1px solid red;
+    box-shadow: 1px 1px 1px red
+}
+
+.ng-valid.ng-touched:not(form) {
+    border: 1px solid #5cb85c;
+    box-shadow: 1px 1px 1px #5cb85c
+}
+
+.form-control.ng-invalid:focus:not(form) {
+    border: 1px solid red;
+    box-shadow: 1px 1px 1px red
+}
+
+.form-control.ng-valid:focus:not(form) {
+    border: 1px solid #5cb85c;
+    box-shadow: 1px 1px 1px #5cb85c
+}
+
+.error {
+    color: red;
+}
+
+.correcto {
+    color: #5cb85c;
+} */
